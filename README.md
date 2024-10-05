@@ -1,1 +1,1 @@
-Investigation Netflix Movies in Python
+Investigating Netflix Movies in Python
